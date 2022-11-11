@@ -1,0 +1,61 @@
+Pound 7
+
+1) flex-flow: row-reverse;
+align-items: flex-end;
+
+2) flex-flow: wrap-reverse column;
+justify-content: center;
+
+3) flex-direction: column-reverse;
+align-items: flex-end;
+
+4) flex-flow: wrap;
+align-items: flex-end;
+
+5) flex-flow: wrap row-reverse;
+align-content: center;
+
+6) flex-flow: wrap-reverse;
+align-content: center;
+
+7) flex-direction: column-reverse;
+align-items: flex-end;
+
+8) flex-flow: wrap row-reverse;
+justify-content: flex-start;
+align-content: space-around;
+
+9) flex-flow: wrap-reverse column-reverse;
+justify-content: flex-start;
+
+10) flex-flow: wrap;
+justify-content: center;
+
+11) flex-flow: wrap-reverse column-reverse;
+align-content: space-around;
+
+12) flex-flow: wrap;
+align-content: center;
+
+13) flex-flow: wrap row-reverse;
+align-content: space-around;
+
+14) flex-flow: wrap-reverse row-reverse;
+
+15) justify-content: space-between;
+align-items: center;
+
+16) flex-flow: wrap column-reverse;
+align-content: flex-end;
+
+17) flex-flow: wrap row-reverse;
+align-content: space-around;
+
+18) flex-flow: wrap-reverse row-reverse;
+align-content: flex-end;
+
+19) flex-direction: row-reverse;
+align-items: flex-end;
+
+20) justify-content: space-around;
+align-items: center;
